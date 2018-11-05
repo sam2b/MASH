@@ -1,3 +1,7 @@
+# IntelliJ IDE
+.proj
+.cproj
+
 # Prerequisites
 *.d
 
